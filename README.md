@@ -1,9 +1,5 @@
 # Restaurant-Order-Analysis-using-PostgreSQL
 
-
-
-#  Restaurant Order Analysis using PostgreSQL
-
 ##  Project Overview
 
 This project demonstrates SQL skills by analyzing a restaurant ordering database using PostgreSQL. It covers data analysis, business insights, aggregations, joins, subqueries, Common Table Expressions (CTEs), and advanced window functions.
