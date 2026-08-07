@@ -1,0 +1,101 @@
+restaurant_id,restaurant_name,city,cuisine,rating
+1,Restaurant_1,Jaipur,Chinese,4.7
+2,Restaurant_2,Jaipur,Pizza,4.4
+3,Restaurant_3,Jaipur,Pizza,3.5
+4,Restaurant_4,Mumbai,Pizza,3.5
+5,Restaurant_5,Delhi,Chinese,3.8
+6,Restaurant_6,Pune,Chinese,4.6
+7,Restaurant_7,Pune,South Indian,4.4
+8,Restaurant_8,Delhi,North Indian,3.7
+9,Restaurant_9,Jaipur,North Indian,4.1
+10,Restaurant_10,Mumbai,Pizza,3.8
+11,Restaurant_11,Jaipur,North Indian,4.5
+12,Restaurant_12,Jaipur,South Indian,4.0
+13,Restaurant_13,Mumbai,South Indian,4.9
+14,Restaurant_14,Lucknow,South Indian,4.1
+15,Restaurant_15,Pune,Chinese,4.1
+16,Restaurant_16,Mumbai,South Indian,4.5
+17,Restaurant_17,Mumbai,South Indian,4.8
+18,Restaurant_18,Jaipur,North Indian,3.9
+19,Restaurant_19,Pune,Pizza,4.0
+20,Restaurant_20,Lucknow,South Indian,3.6
+21,Restaurant_21,Delhi,Chinese,4.9
+22,Restaurant_22,Mumbai,Pizza,3.9
+23,Restaurant_23,Lucknow,Chinese,4.5
+24,Restaurant_24,Delhi,North Indian,4.3
+25,Restaurant_25,Lucknow,South Indian,4.0
+26,Restaurant_26,Mumbai,Chinese,3.8
+27,Restaurant_27,Pune,South Indian,4.6
+28,Restaurant_28,Jaipur,Pizza,3.9
+29,Restaurant_29,Mumbai,South Indian,4.2
+30,Restaurant_30,Jaipur,South Indian,3.8
+31,Restaurant_31,Mumbai,Pizza,4.3
+32,Restaurant_32,Pune,South Indian,3.7
+33,Restaurant_33,Pune,Pizza,4.5
+34,Restaurant_34,Delhi,Chinese,4.7
+35,Restaurant_35,Lucknow,Chinese,4.4
+36,Restaurant_36,Jaipur,Pizza,4.3
+37,Restaurant_37,Pune,Chinese,4.7
+38,Restaurant_38,Pune,Chinese,4.5
+39,Restaurant_39,Delhi,North Indian,4.5
+40,Restaurant_40,Jaipur,North Indian,4.8
+41,Restaurant_41,Mumbai,North Indian,3.6
+42,Restaurant_42,Pune,Chinese,4.1
+43,Restaurant_43,Lucknow,Pizza,4.8
+44,Restaurant_44,Pune,Chinese,4.4
+45,Restaurant_45,Delhi,South Indian,4.9
+46,Restaurant_46,Delhi,South Indian,4.7
+47,Restaurant_47,Mumbai,Chinese,3.9
+48,Restaurant_48,Delhi,South Indian,3.8
+49,Restaurant_49,Mumbai,North Indian,4.0
+50,Restaurant_50,Delhi,Pizza,4.2
+51,Restaurant_51,Delhi,Chinese,4.6
+52,Restaurant_52,Mumbai,South Indian,4.4
+53,Restaurant_53,Mumbai,South Indian,4.4
+54,Restaurant_54,Mumbai,North Indian,3.7
+55,Restaurant_55,Lucknow,North Indian,4.0
+56,Restaurant_56,Mumbai,Chinese,4.0
+57,Restaurant_57,Jaipur,Pizza,4.7
+58,Restaurant_58,Mumbai,South Indian,4.6
+59,Restaurant_59,Lucknow,Pizza,4.3
+60,Restaurant_60,Delhi,North Indian,4.3
+61,Restaurant_61,Mumbai,Pizza,4.3
+62,Restaurant_62,Mumbai,Chinese,3.9
+63,Restaurant_63,Jaipur,South Indian,3.9
+64,Restaurant_64,Pune,North Indian,4.2
+65,Restaurant_65,Jaipur,Chinese,4.9
+66,Restaurant_66,Pune,North Indian,4.9
+67,Restaurant_67,Lucknow,South Indian,4.4
+68,Restaurant_68,Delhi,South Indian,5.0
+69,Restaurant_69,Jaipur,North Indian,3.6
+70,Restaurant_70,Jaipur,South Indian,4.5
+71,Restaurant_71,Mumbai,Chinese,4.6
+72,Restaurant_72,Jaipur,Pizza,4.8
+73,Restaurant_73,Lucknow,Pizza,4.4
+74,Restaurant_74,Lucknow,South Indian,4.4
+75,Restaurant_75,Jaipur,South Indian,4.6
+76,Restaurant_76,Mumbai,Chinese,3.8
+77,Restaurant_77,Mumbai,Chinese,3.7
+78,Restaurant_78,Delhi,South Indian,3.6
+79,Restaurant_79,Lucknow,South Indian,3.8
+80,Restaurant_80,Jaipur,Chinese,4.7
+81,Restaurant_81,Delhi,South Indian,4.1
+82,Restaurant_82,Mumbai,Chinese,4.7
+83,Restaurant_83,Pune,Chinese,3.7
+84,Restaurant_84,Mumbai,Chinese,3.8
+85,Restaurant_85,Mumbai,North Indian,4.0
+86,Restaurant_86,Mumbai,Pizza,3.6
+87,Restaurant_87,Lucknow,Chinese,4.0
+88,Restaurant_88,Delhi,Pizza,3.9
+89,Restaurant_89,Lucknow,Chinese,5.0
+90,Restaurant_90,Mumbai,South Indian,3.6
+91,Restaurant_91,Lucknow,South Indian,4.0
+92,Restaurant_92,Jaipur,North Indian,3.8
+93,Restaurant_93,Lucknow,Chinese,3.6
+94,Restaurant_94,Delhi,South Indian,4.7
+95,Restaurant_95,Delhi,South Indian,3.7
+96,Restaurant_96,Jaipur,Pizza,4.4
+97,Restaurant_97,Jaipur,North Indian,3.9
+98,Restaurant_98,Delhi,Chinese,3.7
+99,Restaurant_99,Jaipur,South Indian,4.7
+100,Restaurant_100,Pune,South Indian,4.2
